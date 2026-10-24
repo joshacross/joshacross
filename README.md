@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Joshua 👋
 
-<!--
-**joshacross/joshacross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · Product Builder · Systems Thinker**
 
-Here are some ideas to get you started:
+I am a support partner and Engineer II at <b style="color:#00704A;">Starbucks</b>☕️ based in Nashville.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build internal tools, connected platforms, and software that helps people do their jobs better. I enjoy working across the product—from understanding the problem and designing the experience to building the systems behind it.
+
+I believe good technology should simplify complexity, fit naturally into people's workflows, and feel almost invisible.
+
+**What I gravitate toward:** product engineering · internal platforms · systems design · automation · real-time applications · agentic-engineering · developer tooling
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-heyjoshcross.com-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://www.heyjoshcross.com/)
+[![Starbucks](https://img.shields.io/badge/Engineer_II-Starbucks-00704A?style=for-the-badge&logo=starbucks&logoColor=white)](https://www.starbucks.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-joshacross-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshacross)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuaalexandercross/)
+
+Outside of software, I love writing and playing music, spending time outdoors, and learning new things.
+
+[**Website**](https://www.heyjoshcross.com/) · [**LinkedIn**](https://www.linkedin.com/in/joshuaalexandercross/) · [**GitHub**](https://github.com/joshacross)
