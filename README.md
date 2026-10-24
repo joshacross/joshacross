@@ -1,4 +1,4 @@
-# Hey, I'm Joshua 👋
+# Hey, I'm Joshua :alien:
 
 **Software Engineer · Product Builder · Systems Thinker**
 
